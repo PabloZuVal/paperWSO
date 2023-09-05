@@ -1,0 +1,85 @@
+PWD /Users/pablozunigavalenzuela/Documents/latexProject/Estocastica/paper
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/pablozunigavalenzuela/Documents/latexProject/Estocastica/paper/main.tex
+OUTPUT main.log
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ieeetran/IEEEtran.cls
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ieeetran/IEEEtran.cls
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmrc7t.tfm
+OUTPUT main.pdf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmbi7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmrc7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri7t.vf
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr7t.vf
+INPUT main.aux
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Users/pablozunigavalenzuela/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
