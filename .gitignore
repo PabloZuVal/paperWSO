@@ -1,0 +1,5 @@
+# Archivos generados al compilar LaTeX
+*.aux
+*.log
+*.synctex.gz
+*.pdf
